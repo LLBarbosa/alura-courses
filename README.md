@@ -1,2 +1,2 @@
 # alura-courses
-## Repositório de cursos realizados na plataforma "Alura".
+ Repositório de cursos realizados na plataforma "Alura".
